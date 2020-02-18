@@ -1,7 +1,7 @@
 #!/bin/sh
 
 . build/envsetup.sh
-lunch hentai_poplar-userdebug
+lunch hentai_poplar-user
 make userdataimage
 make recoveryimage
 make bootimage
