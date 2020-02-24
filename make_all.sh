@@ -2,12 +2,6 @@
 
 cd ~/hentai
 
-echo " GGGGGGG   OOOOOOO !!"
-echo " G         O     O !!" 
-echo " G   GGGGG O     O !!"
-echo " G     G   O     O   "
-echo " GGGGGGG   OOOOOOO !!"
-
 . build/envsetup.sh
 lunch hentai_poplar-user
 echo " CCCCCC     A     CCCCCC H    H EEEEEE"
