@@ -1,5 +1,5 @@
 #!/bin/sh
-cd ~/hentai
+cd ..
 cd kernel/sony/msm-4.14/kernel
 
 export CROSS_COMPILE_ARM32=~/hentai/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-
