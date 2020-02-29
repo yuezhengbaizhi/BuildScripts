@@ -1,6 +1,6 @@
 #!/bin/sh
 
-cd ~/hentai
+cd ..
 
 . build/envsetup.sh
 lunch hentai_poplar-user
