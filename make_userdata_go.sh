@@ -1,6 +1,6 @@
 #!/bin/sh
 
-cd ~/hentai
+cd ..
 
 echo " GGGGGGG   OOOOOOO !!"
 echo " G         O     O !!" 
