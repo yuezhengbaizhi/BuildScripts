@@ -1,6 +1,6 @@
 #!bin/bash
 
-cd buildScripts
+cd buildscripts
 
 if [ $1 = "--all" ]; then
     . make_all.sh
