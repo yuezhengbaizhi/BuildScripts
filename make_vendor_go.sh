@@ -9,7 +9,7 @@ echo " G     G   O     O   "
 echo " GGGGGGG   OOOOOOO !!"
 
 . build/envsetup.sh
-lunch hentai_poplar_go-user
+lunch hentai_poplar_DSDS_go-user
 
 echo " V       V EEEEEE N   N DDDD   OOOOOO RRRRRR"
 echo "  V     V  E      NN  N D   D  O    O R    R"
