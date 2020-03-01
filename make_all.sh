@@ -3,7 +3,7 @@
 cd ..
 
 . build/envsetup.sh
-lunch hentai_poplar-user
+lunch hentai_poplar_DSDS-user
 
 echo " CCCCCC     A     CCCCCC H    H EEEEEE"
 echo " C         A A    C      H    H E     "
