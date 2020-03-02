@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ..
+cd ../../..
 cd kernel/sony/msm-4.14/kernel
 
 COMPILER_PATH=$HOME/hentai/prebuilts
