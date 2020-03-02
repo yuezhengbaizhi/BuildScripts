@@ -1,6 +1,6 @@
 #!/bin/sh
 
-cd ..
+cd ../../..
 
 . build/envsetup.sh
 lunch hentai_poplar_DSDS-user
