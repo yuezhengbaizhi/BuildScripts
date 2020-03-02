@@ -51,3 +51,6 @@ fi
 if [ $1 = "--kernel-gcc" ]; then
     . make_kernel_gcc.sh
 fi
+if [ $1 = "--clean" ]; then
+    . clean.sh
+fi
