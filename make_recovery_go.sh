@@ -1,6 +1,6 @@
 #!/bin/sh
 
-cd ..
+cd ../../..
 
 echo " GGGGGGG   OOOOOOO !!"
 echo " G         O     O !!" 
