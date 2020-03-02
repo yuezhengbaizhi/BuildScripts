@@ -1,6 +1,6 @@
 #!bin/bash
 
-cd buildscripts
+cd vendor/oss/BuildScripts
 
 if [ $1 = "--all" ]; then
     . make_all.sh
