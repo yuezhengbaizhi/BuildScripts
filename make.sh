@@ -54,3 +54,6 @@ fi
 if [ $1 = "--clean" ]; then
     . clean.sh
 fi
+if [ $1 = "--installclean" ]; then
+    . installclean.sh
+fi
