@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ..
+cd ../../..
 
 . build/envsetup.sh
 make clean
